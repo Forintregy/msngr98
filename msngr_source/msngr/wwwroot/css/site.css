@@ -1,0 +1,25 @@
+﻿.message-container {
+	border: 2px solid #dedede;
+	background-color: #f1f1f1;
+	border-radius: 5px;
+	padding: 10px;
+	margin: 10px 0;
+}
+body {
+	background-color: #c0c0c0
+}
+
+div.sticky-bottom {
+	position: -webkit-sticky;
+	position: sticky;
+	bottom: 0;
+	margin-bottom: 10px;
+	background-color: #c0c0c0;
+}
+
+div.sticky-top {
+	position: -webkit-sticky;
+	position: sticky;
+	top: 0;
+	background-color: #c0c0c0;
+}
